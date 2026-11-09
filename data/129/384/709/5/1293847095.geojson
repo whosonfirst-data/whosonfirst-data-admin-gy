@@ -51,7 +51,7 @@
         "wk:page":"Fort_Nassau_%28Guyana%29"
     },
     "wof:country":"GY",
-    "wof:geomhash":"b6488c29356cd642c30dde0ba7f96e83",
+    "wof:geomhash":"9d56eade08bc9776f51239534efd1228",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -77,5 +77,5 @@
     -57.65743000000001,
     5.7583
 ],
-  "geometry": {"coordinates":[-57.65743000000001,5.7583],"type":"Point"}
+  "geometry": {"coordinates":[-57.65743,5.7583],"type":"Point"}
 }

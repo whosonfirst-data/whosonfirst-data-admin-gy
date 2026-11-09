@@ -45,7 +45,7 @@
         "wk:page":"Apoteri"
     },
     "wof:country":"GY",
-    "wof:geomhash":"9aa629c65c647695ee2c4f0b9921f735",
+    "wof:geomhash":"0ed314ddeb3c2c77d3c6b5622f792973",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -71,5 +71,5 @@
     -58.58643000000001,
     4.03768
 ],
-  "geometry": {"coordinates":[-58.58643000000001,4.03768],"type":"Point"}
+  "geometry": {"coordinates":[-58.58643,4.03768],"type":"Point"}
 }

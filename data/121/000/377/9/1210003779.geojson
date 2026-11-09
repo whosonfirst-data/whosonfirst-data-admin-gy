@@ -43,7 +43,7 @@
         "wk:page":"Enmore%2C_Guyana"
     },
     "wof:country":"GY",
-    "wof:geomhash":"c5dea7ab805e15c2bc3d5f171d5fc880",
+    "wof:geomhash":"d1972190f2f95a8046b3fd1a75ad5a0f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,5 +69,5 @@
     -57.98298000000001,
     6.76699
 ],
-  "geometry": {"coordinates":[-57.98298000000001,6.76699],"type":"Point"}
+  "geometry": {"coordinates":[-57.98298,6.76699],"type":"Point"}
 }

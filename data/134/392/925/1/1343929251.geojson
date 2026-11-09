@@ -49,7 +49,7 @@
         "gn:id":3379810
     },
     "wof:country":"GY",
-    "wof:geomhash":"d54b4a6110ebf3b984727d3627a25dc0",
+    "wof:geomhash":"d7456ff527f4fc1b3c0d24981d5de316",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -57.34871999999999,
     6.24123
 ],
-  "geometry": {"coordinates":[-57.34871999999999,6.24123],"type":"Point"}
+  "geometry": {"coordinates":[-57.34872,6.24123],"type":"Point"}
 }

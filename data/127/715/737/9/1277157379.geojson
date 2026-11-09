@@ -54,7 +54,7 @@
         "wk:page":"Beterverwagting"
     },
     "wof:country":"GY",
-    "wof:geomhash":"52fc110c7c776ba38871027a6e8b4ff9",
+    "wof:geomhash":"80418927d949632227860f518e4b8948",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -80,5 +80,5 @@
     -58.08643000000001,
     6.81866
 ],
-  "geometry": {"coordinates":[-58.08643000000001,6.81866],"type":"Point"}
+  "geometry": {"coordinates":[-58.08643,6.81866],"type":"Point"}
 }

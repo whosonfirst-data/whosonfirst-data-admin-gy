@@ -42,7 +42,7 @@
         "wk:page":"Imbaimadai"
     },
     "wof:country":"GY",
-    "wof:geomhash":"0c148a4f75fef27cdf914641f36a91d9",
+    "wof:geomhash":"52b03cb4b5cd3a79a77b7bc9bc741d9c",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,5 +68,5 @@
     -60.28333000000001,
     5.7
 ],
-  "geometry": {"coordinates":[-60.28333000000001,5.7],"type":"Point"}
+  "geometry": {"coordinates":[-60.28333,5.7],"type":"Point"}
 }

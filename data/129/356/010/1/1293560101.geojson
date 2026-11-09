@@ -42,7 +42,7 @@
         "wk:page":"Soesdyke"
     },
     "wof:country":"GY",
-    "wof:geomhash":"c24443ae2cce782269bcfd129505207c",
+    "wof:geomhash":"16db28c8d3e33fd00929fcf77e9df48f",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -68,5 +68,5 @@
     -58.20209000000001,
     6.54276
 ],
-  "geometry": {"coordinates":[-58.20209000000001,6.54276],"type":"Point"}
+  "geometry": {"coordinates":[-58.20209,6.54276],"type":"Point"}
 }

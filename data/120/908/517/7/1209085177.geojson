@@ -42,7 +42,7 @@
         "gn:id":3376498
     },
     "wof:country":"GY",
-    "wof:geomhash":"48b0dc2e0cf135422f55bec213ea5eca",
+    "wof:geomhash":"17ec5be62c1d94969f787db8795c4258",
     "wof:hierarchy":[
         {
             "country_id":85632397,
@@ -65,5 +65,5 @@
     -58.61853000000001,
     6.53991
 ],
-  "geometry": {"coordinates":[-58.61853000000001,6.53991],"type":"Point"}
+  "geometry": {"coordinates":[-58.61853,6.53991],"type":"Point"}
 }

@@ -43,7 +43,7 @@
         "wk:page":"Wichabai"
     },
     "wof:country":"GY",
-    "wof:geomhash":"505d776f9670ebd4fa26558e00f0ad8e",
+    "wof:geomhash":"a7f17e5c4b7c2393ed566e32ac58cde8",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -76,5 +76,5 @@
     -59.53333000000001,
     2.86667
 ],
-  "geometry": {"coordinates":[-59.53333000000001,2.86667],"type":"Point"}
+  "geometry": {"coordinates":[-59.53333,2.86667],"type":"Point"}
 }
