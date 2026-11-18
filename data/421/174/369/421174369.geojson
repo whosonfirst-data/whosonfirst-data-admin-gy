@@ -104,12 +104,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Mackenzie"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u9ea6\u80af\u9f50\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u99ac\u80af\u5409\u6cb3"
-    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -153,7 +147,7 @@
         }
     ],
     "wof:id":421174369,
-    "wof:lastmodified":1636494758,
+    "wof:lastmodified":1794999722,
     "wof:name":"Mackenzie",
     "wof:parent_id":1091685061,
     "wof:placetype":"locality",
