@@ -1,0 +1,82 @@
+{
+  "id": 9895028350,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.89849,6.64229,-57.89849,6.64229",
+    "geom:latitude":6.64229,
+    "geom:longitude":-57.89849,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3377506: name \"La Jeanette\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3377506"
+        },
+        {
+            "citation":"GeoNames populated place 3377506: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3377506"
+        },
+        {
+            "citation":"GeoNames populated place 3377506: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3377506"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091681309 (Farm/Woodlands), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671737,
+        85671767,
+        102191577,
+        1091681309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377506
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"dae859c6043093dcc30228906183f504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681309,
+            "locality_id":9895028350,
+            "region_id":85671767
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681309,
+            "locality_id":9895028350,
+            "region_id":85671737
+        }
+    ],
+    "wof:id":9895028350,
+    "wof:lastmodified":1795735056,
+    "wof:name":"La Jeanette",
+    "wof:parent_id":1091681309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.89849,
+    6.64229,
+    -57.89849,
+    6.64229
+],
+  "geometry": {"coordinates":[-57.89849,6.64229],"type":"Point"}
+}

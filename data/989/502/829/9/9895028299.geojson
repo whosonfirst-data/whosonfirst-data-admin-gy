@@ -1,0 +1,74 @@
+{
+  "id": 9895028299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.36601,6.87488,-58.36601,6.87488",
+    "geom:latitude":6.87488,
+    "geom:longitude":-58.36601,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3376459: name \"Philadelphia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3376459"
+        },
+        {
+            "citation":"GeoNames populated place 3376459: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3376459"
+        },
+        {
+            "citation":"GeoNames populated place 3376459: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3376459"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091682555 (Vergenoegen/Greenwich Park), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671767,
+        102191577,
+        1091682555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376459
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"1848c77c8e66b7c291486037233e1cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682555,
+            "locality_id":9895028299,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":9895028299,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Philadelphia",
+    "wof:parent_id":1091682555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.36601,
+    6.87488,
+    -58.36601,
+    6.87488
+],
+  "geometry": {"coordinates":[-58.36601,6.87488],"type":"Point"}
+}

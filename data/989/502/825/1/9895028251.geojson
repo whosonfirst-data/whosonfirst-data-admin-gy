@@ -1,0 +1,74 @@
+{
+  "id": 9895028251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.91702,6.68512,-57.91702,6.68512",
+    "geom:latitude":6.68512,
+    "geom:longitude":-57.91702,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3375413: name \"Voorsigtigheid\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3375413"
+        },
+        {
+            "citation":"GeoNames populated place 3375413: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3375413"
+        },
+        {
+            "citation":"GeoNames populated place 3375413: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3375413"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091683091 (Vereeniging/Unity), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671761,
+        102191577,
+        1091683091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375413
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"df2e723ddaa4cfc465b5c83d8630e861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683091,
+            "locality_id":9895028251,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":9895028251,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Voorsigtigheid",
+    "wof:parent_id":1091683091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.91702,
+    6.68512,
+    -57.91702,
+    6.68512
+],
+  "geometry": {"coordinates":[-57.91702,6.68512],"type":"Point"}
+}

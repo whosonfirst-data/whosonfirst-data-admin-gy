@@ -1,0 +1,72 @@
+{
+  "id": 9895028435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.4583,6.83147,-58.4583,6.83147",
+    "geom:latitude":6.83147,
+    "geom:longitude":-58.4583,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3379352: name \"Blake\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3379352"
+        },
+        {
+            "citation":"GeoNames populated place 3379352: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3379352"
+        },
+        {
+            "citation":"GeoNames populated place 3379352: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3379352"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1175612739 (Sparta/Bonasika and Rest of Essequibo Islands), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671767,
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3379352
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"9af6e64139c627d49013ba7ba50fda00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "locality_id":9895028435,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":9895028435,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Blake",
+    "wof:parent_id":1175612739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.4583,
+    6.83147,
+    -58.4583,
+    6.83147
+],
+  "geometry": {"coordinates":[-58.4583,6.83147],"type":"Point"}
+}

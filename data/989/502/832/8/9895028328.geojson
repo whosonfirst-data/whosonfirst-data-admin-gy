@@ -1,0 +1,74 @@
+{
+  "id": 9895028328,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.20099,6.77686,-58.20099,6.77686",
+    "geom:latitude":6.77686,
+    "geom:longitude":-58.20099,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3376975: name \"Meer Zorgen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3376975"
+        },
+        {
+            "citation":"GeoNames populated place 3376975: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3376975"
+        },
+        {
+            "citation":"GeoNames populated place 3376975: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3376975"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091682223 (Nismes/La Grange), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671767,
+        102191577,
+        1091682223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376975
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"9b9e8fc866ab9504ddeaa8dbd8f11585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682223,
+            "locality_id":9895028328,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":9895028328,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Meer Zorgen",
+    "wof:parent_id":1091682223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.20099,
+    6.77686,
+    -58.20099,
+    6.77686
+],
+  "geometry": {"coordinates":[-58.20099,6.77686],"type":"Point"}
+}

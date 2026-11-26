@@ -1,0 +1,82 @@
+{
+  "id": 9895028248,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.4788,7.15212,-58.4788,7.15212",
+    "geom:latitude":7.15212,
+    "geom:longitude":-58.4788,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3375203: name \"Wastelands\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3375203"
+        },
+        {
+            "citation":"GeoNames populated place 3375203: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3375203"
+        },
+        {
+            "citation":"GeoNames populated place 3375203: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3375203"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091682041 (Riverstown/Annandale), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671753,
+        85671773,
+        102191577,
+        1091682041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375203
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"4d65d31f00a005f7ea8532c87e7aa4c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682041,
+            "locality_id":9895028248,
+            "region_id":85671753
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682041,
+            "locality_id":9895028248,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":9895028248,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Wastelands",
+    "wof:parent_id":1091682041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.4788,
+    7.15212,
+    -58.4788,
+    7.15212
+],
+  "geometry": {"coordinates":[-58.4788,7.15212],"type":"Point"}
+}

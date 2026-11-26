@@ -1,0 +1,74 @@
+{
+  "id": 9895028289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.40776,6.95606,-58.40776,6.95606",
+    "geom:latitude":6.95606,
+    "geom:longitude":-58.40776,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3376262: name \"Richmond Hill\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3376262"
+        },
+        {
+            "citation":"GeoNames populated place 3376262: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3376262"
+        },
+        {
+            "citation":"GeoNames populated place 3376262: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3376262"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091682655 (Leguan (Essequibo Islands)), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671767,
+        102191577,
+        1091682655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376262
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"db30ff9636eefa6d8fe73e6fb693e616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682655,
+            "locality_id":9895028289,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":9895028289,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Richmond Hill",
+    "wof:parent_id":1091682655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.40776,
+    6.95606,
+    -58.40776,
+    6.95606
+],
+  "geometry": {"coordinates":[-58.40776,6.95606],"type":"Point"}
+}

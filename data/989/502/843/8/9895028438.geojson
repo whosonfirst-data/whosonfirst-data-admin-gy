@@ -1,0 +1,72 @@
+{
+  "id": 9895028438,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.49121,6.79214,-58.49121,6.79214",
+    "geom:latitude":6.79214,
+    "geom:longitude":-58.49121,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3379451: name \"Bendorff\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3379451"
+        },
+        {
+            "citation":"GeoNames populated place 3379451: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3379451"
+        },
+        {
+            "citation":"GeoNames populated place 3379451: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3379451"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1175612739 (Sparta/Bonasika and Rest of Essequibo Islands), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671767,
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3379451
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"e751f72f8d310099f3032aa91eadce9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "locality_id":9895028438,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":9895028438,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Bendorff",
+    "wof:parent_id":1175612739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.49121,
+    6.79214,
+    -58.49121,
+    6.79214
+],
+  "geometry": {"coordinates":[-58.49121,6.79214],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895028340,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.44043,6.8446,-58.44043,6.8446",
+    "geom:latitude":6.8446,
+    "geom:longitude":-58.44043,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3377341: name \"Look Out\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3377341"
+        },
+        {
+            "citation":"GeoNames populated place 3377341: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3377341"
+        },
+        {
+            "citation":"GeoNames populated place 3377341: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3377341"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091682611 (Parika/Mora), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671767,
+        102191577,
+        1091682611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377341
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"74468dcabdf346e5c63c8586be9ba167",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682611,
+            "locality_id":9895028340,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":9895028340,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Look Out",
+    "wof:parent_id":1091682611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.44043,
+    6.8446,
+    -58.44043,
+    6.8446
+],
+  "geometry": {"coordinates":[-58.44043,6.8446],"type":"Point"}
+}

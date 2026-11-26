@@ -1,0 +1,74 @@
+{
+  "id": 9895028456,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-60.61667,5.86667,-60.61667,5.86667",
+    "geom:latitude":5.86667,
+    "geom:longitude":-60.61667,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3661292: name \"Kamarang\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3661292"
+        },
+        {
+            "citation":"GeoNames populated place 3661292: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3661292"
+        },
+        {
+            "citation":"GeoNames populated place 3661292: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3661292"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091684047 (Kamarang), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671773,
+        102191577,
+        1091684047
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3661292
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"da89851e0474dc1988dc9b67b30d9763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684047,
+            "locality_id":9895028456,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":9895028456,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Kamarang",
+    "wof:parent_id":1091684047,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -60.61667,
+    5.86667,
+    -60.61667,
+    5.86667
+],
+  "geometry": {"coordinates":[-60.61667,5.86667],"type":"Point"}
+}

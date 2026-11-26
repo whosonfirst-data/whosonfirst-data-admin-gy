@@ -1,0 +1,74 @@
+{
+  "id": 9895028353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.05,5.28333,-58.05,5.28333",
+    "geom:latitude":5.28333,
+    "geom:longitude":-58.05,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3377570: name \"Kwakwani\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3377570"
+        },
+        {
+            "citation":"GeoNames populated place 3377570: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3377570"
+        },
+        {
+            "citation":"GeoNames populated place 3377570: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3377570"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091684945 (Kwakwani), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671745,
+        102191577,
+        1091684945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377570
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"b727243b66911938697db3b14fe11357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684945,
+            "locality_id":9895028353,
+            "region_id":85671745
+        }
+    ],
+    "wof:id":9895028353,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Kwakwani",
+    "wof:parent_id":1091684945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.05,
+    5.28333,
+    -58.05,
+    5.28333
+],
+  "geometry": {"coordinates":[-58.05,5.28333],"type":"Point"}
+}

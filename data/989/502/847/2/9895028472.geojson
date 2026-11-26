@@ -1,0 +1,74 @@
+{
+  "id": 9895028472,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.20125,6.80995,-58.20125,6.80995",
+    "geom:latitude":6.80995,
+    "geom:longitude":-58.20125,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12537555: name \"Best See The Best\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12537555"
+        },
+        {
+            "citation":"GeoNames populated place 12537555: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12537555"
+        },
+        {
+            "citation":"GeoNames populated place 12537555: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12537555"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091682307 (Klein Pouderoyen/Best), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671767,
+        102191577,
+        1091682307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12537555
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"5307acadb840e99f94255ef1e5654d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682307,
+            "locality_id":9895028472,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":9895028472,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Best See The Best",
+    "wof:parent_id":1091682307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.20125,
+    6.80995,
+    -58.20125,
+    6.80995
+],
+  "geometry": {"coordinates":[-58.20125,6.80995],"type":"Point"}
+}

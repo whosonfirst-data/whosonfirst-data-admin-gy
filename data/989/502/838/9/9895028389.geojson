@@ -1,0 +1,82 @@
+{
+  "id": 9895028389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.79967,6.5389,-57.79967,6.5389",
+    "geom:latitude":6.5389,
+    "geom:longitude":-57.79967,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3378714: name \"Felicity\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3378714"
+        },
+        {
+            "citation":"GeoNames populated place 3378714: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3378714"
+        },
+        {
+            "citation":"GeoNames populated place 3378714: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3378714"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091683729 (Chance/Hamlet), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671737,
+        85671767,
+        102191577,
+        1091683729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378714
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"717c07e7efb9cfabbc51e277c0c3c18e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683729,
+            "locality_id":9895028389,
+            "region_id":85671767
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683729,
+            "locality_id":9895028389,
+            "region_id":85671737
+        }
+    ],
+    "wof:id":9895028389,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Felicity",
+    "wof:parent_id":1091683729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.79967,
+    6.5389,
+    -57.79967,
+    6.5389
+],
+  "geometry": {"coordinates":[-57.79967,6.5389],"type":"Point"}
+}
