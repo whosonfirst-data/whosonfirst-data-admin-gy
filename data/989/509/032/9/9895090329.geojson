@@ -1,0 +1,72 @@
+{
+  "id": 9895090329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.387,6.92213,-58.387,6.92213",
+    "geom:latitude":6.92213,
+    "geom:longitude":-58.387,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3378768: name \"Endeavour\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3378768"
+        },
+        {
+            "citation":"GeoNames populated place 3378768: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3378768"
+        },
+        {
+            "citation":"GeoNames populated place 3378768: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3378768"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671761 (Demerara-Mahaica), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671761,
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378768
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"087794771c7b867d1335291331c2f76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "locality_id":9895090329,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":9895090329,
+    "wof:lastmodified":1795746157,
+    "wof:name":"Endeavour",
+    "wof:parent_id":85671761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.387,
+    6.92213,
+    -58.387,
+    6.92213
+],
+  "geometry": {"coordinates":[-58.387,6.92213],"type":"Point"}
+}

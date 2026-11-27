@@ -1,0 +1,82 @@
+{
+  "id": 9895028236,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.48822,7.17452,-58.48822,7.17452",
+    "geom:latitude":7.17452,
+    "geom:longitude":-58.48822,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3374947: name \"Zorg en Vlygt\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3374947"
+        },
+        {
+            "citation":"GeoNames populated place 3374947: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3374947"
+        },
+        {
+            "citation":"GeoNames populated place 3374947: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3374947"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091682041 (Riverstown/Annandale), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671753,
+        85671773,
+        102191577,
+        1091682041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374947
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"32bde67b777eaf4cbb9e80becbcc8710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682041,
+            "locality_id":9895028236,
+            "region_id":85671753
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682041,
+            "locality_id":9895028236,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":9895028236,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Zorg en Vlygt",
+    "wof:parent_id":1091682041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.48822,
+    7.17452,
+    -58.48822,
+    7.17452
+],
+  "geometry": {"coordinates":[-58.48822,7.17452],"type":"Point"}
+}

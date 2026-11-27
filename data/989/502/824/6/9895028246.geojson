@@ -1,0 +1,82 @@
+{
+  "id": 9895028246,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.49162,7.1994,-58.49162,7.1994",
+    "geom:latitude":7.1994,
+    "geom:longitude":-58.49162,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3375156: name \"Westfield\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3375156"
+        },
+        {
+            "citation":"GeoNames populated place 3375156: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3375156"
+        },
+        {
+            "citation":"GeoNames populated place 3375156: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3375156"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091682089 (Zorg-E -Vlygt/Aberdeen), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671753,
+        85671773,
+        102191577,
+        1091682089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375156
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"21597946d6d3f5870daf10662e1d5753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682089,
+            "locality_id":9895028246,
+            "region_id":85671753
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682089,
+            "locality_id":9895028246,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":9895028246,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Westfield",
+    "wof:parent_id":1091682089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.49162,
+    7.1994,
+    -58.49162,
+    7.1994
+],
+  "geometry": {"coordinates":[-58.49162,7.1994],"type":"Point"}
+}

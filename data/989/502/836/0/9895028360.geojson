@@ -1,0 +1,75 @@
+{
+  "id": 9895028360,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.25632,5.53671,-58.25632,5.53671",
+    "geom:latitude":5.53671,
+    "geom:longitude":-58.25632,
+    "gn:population":676,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3378198: name \"Ituni\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3378198"
+        },
+        {
+            "citation":"GeoNames populated place 3378198: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3378198"
+        },
+        {
+            "citation":"GeoNames populated place 3378198: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3378198"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091684375 (Unorganized), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671745,
+        102191577,
+        1091684375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378198
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"c386e66eb322fa58ff2bf3739afc75ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091684375,
+            "locality_id":9895028360,
+            "region_id":85671745
+        }
+    ],
+    "wof:id":9895028360,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Ituni",
+    "wof:parent_id":1091684375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.25632,
+    5.53671,
+    -58.25632,
+    5.53671
+],
+  "geometry": {"coordinates":[-58.25632,5.53671],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 9895028307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.54427,7.39298,-58.54427,7.39298",
+    "geom:latitude":7.39298,
+    "geom:longitude":-58.54427,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3376618: name \"Opposite\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3376618"
+        },
+        {
+            "citation":"GeoNames populated place 3376618: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3376618"
+        },
+        {
+            "citation":"GeoNames populated place 3376618: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3376618"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091681151 (Paradise/Evergreen (including Somerset and Berks)), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671753,
+        85671773,
+        102191577,
+        1091681151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376618
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"5314a107154d431e2827068d56a27160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681151,
+            "locality_id":9895028307,
+            "region_id":85671753
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681151,
+            "locality_id":9895028307,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":9895028307,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Opposite",
+    "wof:parent_id":1091681151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.54427,
+    7.39298,
+    -58.54427,
+    7.39298
+],
+  "geometry": {"coordinates":[-58.54427,7.39298],"type":"Point"}
+}

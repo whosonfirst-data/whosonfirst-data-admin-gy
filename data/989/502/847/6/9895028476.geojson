@@ -1,0 +1,74 @@
+{
+  "id": 9895028476,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.29048,6.86873,-58.29048,6.86873",
+    "geom:latitude":6.86873,
+    "geom:longitude":-58.29048,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12539872: name \"Parafield\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12539872"
+        },
+        {
+            "citation":"GeoNames populated place 12539872: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12539872"
+        },
+        {
+            "citation":"GeoNames populated place 12539872: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12539872"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091682433 (Cornelia Ida/Stewartville), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671767,
+        102191577,
+        1091682433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12539872
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"e83c5ca85e0d7187aa8434cb6126912d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682433,
+            "locality_id":9895028476,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":9895028476,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Parafield",
+    "wof:parent_id":1091682433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.29048,
+    6.86873,
+    -58.29048,
+    6.86873
+],
+  "geometry": {"coordinates":[-58.29048,6.86873],"type":"Point"}
+}

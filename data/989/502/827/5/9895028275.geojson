@@ -1,0 +1,82 @@
+{
+  "id": 9895028275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.47945,7.30218,-58.47945,7.30218",
+    "geom:latitude":7.30218,
+    "geom:longitude":-58.47945,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3375903: name \"Sparta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3375903"
+        },
+        {
+            "citation":"GeoNames populated place 3375903: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3375903"
+        },
+        {
+            "citation":"GeoNames populated place 3375903: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3375903"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091681277 (Anna Regina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671753,
+        85671773,
+        102191577,
+        1091681277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375903
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"42f78aaaeb34e6140c40e1c416023c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681277,
+            "locality_id":9895028275,
+            "region_id":85671753
+        },
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681277,
+            "locality_id":9895028275,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":9895028275,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Sparta",
+    "wof:parent_id":1091681277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.47945,
+    7.30218,
+    -58.47945,
+    7.30218
+],
+  "geometry": {"coordinates":[-58.47945,7.30218],"type":"Point"}
+}

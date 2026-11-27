@@ -1,0 +1,74 @@
+{
+  "id": 9895028286,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.35502,6.25577,-57.35502,6.25577",
+    "geom:latitude":6.25577,
+    "geom:longitude":-57.35502,
+    "gn:population":8000,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3376227: name \"Rose Hall\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3376227"
+        },
+        {
+            "citation":"GeoNames populated place 3376227: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3376227"
+        },
+        {
+            "citation":"GeoNames populated place 3376227: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3376227"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091685907 (Rose Hall), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85671757,
+        102191577,
+        1091685907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3376227
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"a5df7b4e06c6ab1b49b41dee9cc47872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":-1,
+            "county_id":1091685907,
+            "locality_id":9895028286,
+            "region_id":85671757
+        }
+    ],
+    "wof:id":9895028286,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Rose Hall",
+    "wof:parent_id":1091685907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.35502,
+    6.25577,
+    -57.35502,
+    6.25577
+],
+  "geometry": {"coordinates":[-57.35502,6.25577],"type":"Point"}
+}

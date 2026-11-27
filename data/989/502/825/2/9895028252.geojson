@@ -1,0 +1,74 @@
+{
+  "id": 9895028252,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-57.91315,6.62555,-57.91315,6.62555",
+    "geom:latitude":6.62555,
+    "geom:longitude":-57.91315,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3375421: name \"Virginia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3375421"
+        },
+        {
+            "citation":"GeoNames populated place 3375421: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3375421"
+        },
+        {
+            "citation":"GeoNames populated place 3375421: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3375421"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091683045 (Cane Grove Land Development Scheme), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671761,
+        102191577,
+        1091683045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375421
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"34e2f8644239b2e6e0fac644c9dafcef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683045,
+            "locality_id":9895028252,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":9895028252,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Virginia",
+    "wof:parent_id":1091683045,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -57.91315,
+    6.62555,
+    -57.91315,
+    6.62555
+],
+  "geometry": {"coordinates":[-57.91315,6.62555],"type":"Point"}
+}

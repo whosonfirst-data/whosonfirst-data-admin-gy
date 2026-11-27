@@ -1,0 +1,74 @@
+{
+  "id": 9895028332,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.43316,6.97783,-58.43316,6.97783",
+    "geom:latitude":6.97783,
+    "geom:longitude":-58.43316,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3377086: name \"Marias Pleasure\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3377086"
+        },
+        {
+            "citation":"GeoNames populated place 3377086: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3377086"
+        },
+        {
+            "citation":"GeoNames populated place 3377086: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3377086"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091682739 (Wakenaam (Essequibo Islands)), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671767,
+        102191577,
+        1091682739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3377086
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"ac98f538062700e6d58484b23c0e027b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091682739,
+            "locality_id":9895028332,
+            "region_id":85671767
+        }
+    ],
+    "wof:id":9895028332,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Marias Pleasure",
+    "wof:parent_id":1091682739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.43316,
+    6.97783,
+    -58.43316,
+    6.97783
+],
+  "geometry": {"coordinates":[-58.43316,6.97783],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895028367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.14765,6.74404,-58.14765,6.74404",
+    "geom:latitude":6.74404,
+    "geom:longitude":-58.14765,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3378437: name \"Henry\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3378437"
+        },
+        {
+            "citation":"GeoNames populated place 3378437: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3378437"
+        },
+        {
+            "citation":"GeoNames populated place 3378437: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3378437"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091683171 (Eccles/Ramsburg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671761,
+        102191577,
+        1091683171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3378437
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"f8d7cd9721ce7bb3e7325faa21e8f6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091683171,
+            "locality_id":9895028367,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":9895028367,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Henry",
+    "wof:parent_id":1091683171,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.14765,
+    6.74404,
+    -58.14765,
+    6.74404
+],
+  "geometry": {"coordinates":[-58.14765,6.74404],"type":"Point"}
+}

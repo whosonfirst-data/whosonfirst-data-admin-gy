@@ -1,0 +1,72 @@
+{
+  "id": 9895090334,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.40969,6.91276,-58.40969,6.91276",
+    "geom:latitude":6.91276,
+    "geom:longitude":-58.40969,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3379472: name \"Belfield\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3379472"
+        },
+        {
+            "citation":"GeoNames populated place 3379472: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3379472"
+        },
+        {
+            "citation":"GeoNames populated place 3379472: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3379472"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671761 (Demerara-Mahaica), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671761,
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3379472
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"ffcefdd29ef1be49fa9125928a95dedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "locality_id":9895090334,
+            "region_id":85671761
+        }
+    ],
+    "wof:id":9895090334,
+    "wof:lastmodified":1795746157,
+    "wof:name":"Belfield",
+    "wof:parent_id":85671761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.40969,
+    6.91276,
+    -58.40969,
+    6.91276
+],
+  "geometry": {"coordinates":[-58.40969,6.91276],"type":"Point"}
+}

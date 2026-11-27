@@ -1,0 +1,74 @@
+{
+  "id": 9895028475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.55483,6.96276,-58.55483,6.96276",
+    "geom:latitude":6.96276,
+    "geom:longitude":-58.55483,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12539821: name \"Kuruwatikuru\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12539821"
+        },
+        {
+            "citation":"GeoNames populated place 12539821: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12539821"
+        },
+        {
+            "citation":"GeoNames populated place 12539821: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12539821"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091681961 (Supernaam River, Bethany and Mashabo villages), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671753,
+        102191577,
+        1091681961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12539821
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"89573f12a8b909523adf810a5c41606f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "county_id":1091681961,
+            "locality_id":9895028475,
+            "region_id":85671753
+        }
+    ],
+    "wof:id":9895028475,
+    "wof:lastmodified":1795735056,
+    "wof:name":"Kuruwatikuru",
+    "wof:parent_id":1091681961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.55483,
+    6.96276,
+    -58.55483,
+    6.96276
+],
+  "geometry": {"coordinates":[-58.55483,6.96276],"type":"Point"}
+}
