@@ -1,0 +1,72 @@
+{
+  "id": 9895090308,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-58.50106,6.98236,-58.50106,6.98236",
+    "geom:latitude":6.98236,
+    "geom:longitude":-58.50106,
+    "iso:country":"GY",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3375897: name \"Spring Garden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3375897"
+        },
+        {
+            "citation":"GeoNames populated place 3375897: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3375897"
+        },
+        {
+            "citation":"GeoNames populated place 3375897: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3375897"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671773 (Cuyuni-Mazaruni), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632397,
+        85671773,
+        102191577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3375897
+    },
+    "wof:country":"GY",
+    "wof:geomhash":"84c314ebca87cf4da62b308a856177bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191577,
+            "country_id":85632397,
+            "locality_id":9895090308,
+            "region_id":85671773
+        }
+    ],
+    "wof:id":9895090308,
+    "wof:lastmodified":1795746157,
+    "wof:name":"Spring Garden",
+    "wof:parent_id":85671773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gy",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -58.50106,
+    6.98236,
+    -58.50106,
+    6.98236
+],
+  "geometry": {"coordinates":[-58.50106,6.98236],"type":"Point"}
+}
